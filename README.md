@@ -1,1 +1,1 @@
-# MultiAgent_MCP
+# MultiAgent_MCP_client
